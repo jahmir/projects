@@ -1,0 +1,15 @@
+{
+  "name": "pl",
+  "version": "1.0.0",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam leo purus, malesuada sed diam in, congue hendrerit est. Aenean congue in nisl a pretium. Fusce tristique eleifend sem, a egestas arcu dignissim ac. Mauris sodales mauris lacus, sed sodales sem pulvinar a. Vestibulum eu quam in justo faucibus convallis. Aliquam dapibus ornare ligula ac hendrerit. Aenean imperdiet ultricies libero nec interdum. Curabitur sit amet auctor eros, quis aliquet dolor. Mauris vel sem tincidunt, finibus sem sit amet, molestie leo. Phasellus rutrum, augue non scelerisque tristique, augue quam aliquam metus, vitae efficitur mi dui id turpis. Pellentesque finibus magna at tincidunt efficitur. Nam tincidunt at leo quis sodales.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
